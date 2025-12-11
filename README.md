@@ -7,7 +7,9 @@ Welcome to my Hospital Management System, a lightweight and efficient console-ba
 ✨ Features at a Glance
 Here are all the things my cute little program can do:
 <br>
+
 👨‍⚕️ 1. Patient Management
+
 <br>
 Add new patients with full details
 <br>
@@ -32,6 +34,7 @@ View or update doctor record
 <br>
 
 📅 3. Appointment Scheduling
+
 <br>
 Book appointments easily
 <br>
@@ -43,7 +46,7 @@ View all scheduled appointments
 
 <br>
 
-📂 5. Secure File Storage
+📂 4. Secure File Storage
 <br>
 Uses Python’s pickle module
 <br>
@@ -52,7 +55,7 @@ Stores all records locally
 Fast, safe & persistent
 
 <br>
-🧾 6. Clean Menu-Driven Interface
+🧾 5. Clean Menu-Driven Interface
 
 <br>
 Simple, intuitive options
@@ -63,8 +66,8 @@ Works directly in terminal
 <br>
 
 🛠 Tech Stack Used
-<br>
 
+<br>
 Python 3
 <br>
 Pickle Module for storing data
